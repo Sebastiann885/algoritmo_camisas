@@ -1,0 +1,7 @@
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Algoritmo_Camisas\Algoritmo_Camisas\bin\Debug\Algoritmo_Camisas.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Algoritmo_Camisas\Algoritmo_Camisas\bin\Debug\Algoritmo_Camisas.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Algoritmo_Camisas\Algoritmo_Camisas\bin\Debug\Algoritmo_Camisas.pdb
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Algoritmo_Camisas\Algoritmo_Camisas\obj\Debug\Algoritmo_Camisas.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Algoritmo_Camisas\Algoritmo_Camisas\obj\Debug\Algoritmo_Camisas.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Algoritmo_Camisas\Algoritmo_Camisas\obj\Debug\Algoritmo_Camisas.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Algoritmo_Camisas\Algoritmo_Camisas\obj\Debug\Algoritmo_Camisas.pdb
